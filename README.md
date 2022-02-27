@@ -1,4 +1,4 @@
-# breathing_maneuver
+# Breathing Maneuver
 
 This application simulates the breath data stream and show the progress with a smooth animation.
 
